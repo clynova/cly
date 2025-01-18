@@ -1,0 +1,25 @@
+{
+  "name": "cly",
+  "version": "0.0.1",
+  "description": "Cly is a system that leverages a language model to perform actions on your operating system based on user input. For example, it can open a specific video or execute other types of commands seamlessly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clynova/cly.git"
+  },
+  "keywords": [
+    "ia",
+    "models",
+    "javascript",
+    "learning"
+  ],
+  "author": "Clynova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clynova/cly/issues"
+  },
+  "homepage": "https://github.com/clynova/cly#readme"
+}
